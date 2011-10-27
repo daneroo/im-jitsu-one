@@ -1,0 +1,8 @@
+{
+  "name": "im-jitsu-one",
+  "subdomain": "im-jitsu-one",
+  "scripts": {
+    "start": "server.js"
+  },
+  "version": "0.0.1"
+}
