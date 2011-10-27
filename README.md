@@ -1,7 +1,7 @@
 # nodejitsu
 Hello world, for node-jitsu
 
-See the docs [https://github.com/nodejitsu/handbook#hiworld](https://github.com/nodejitsu/handbook)
+See the docs [https://github.com/nodejitsu/handbook](https://github.com/nodejitsu/handbook)
 and the [cheatsheet](http://cheatsheet.nodejitsu.com/)
 
 ## install tool
