@@ -1,8 +1,13 @@
 {
-  "name": "im-jitsu-one",
-  "subdomain": "im-jitsu-one",
-  "scripts": {
-    "start": "server.js"
-  },
-  "version": "0.0.1"
+    "name": "im-jitsu-one",
+    "subdomain": "im-jitsu-one",
+    "scripts": {
+        "start": "server.js"
+    },
+    "dependencies": {
+        "async": "0.1.x",
+        "colors": "0.5.x",
+        "request": "1.9.x"
+    },
+    "version": "0.0.1"
 }
